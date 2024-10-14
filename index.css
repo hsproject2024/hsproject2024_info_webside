@@ -12,13 +12,13 @@
   header {
     padding: 0 10%;
     background: linear-gradient(#3F3B35 10%, #ffffff 90%);
-    border-bottom: 1px solid #CED0D4;
   }
 
   main {
     background: #F0F2F5;
     padding: 30px 15%;
     text-align: left;
+    box-shadow: 8px -26px 24px -28px #CED0D4;
   }
 
   a {
