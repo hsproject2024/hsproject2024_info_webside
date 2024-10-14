@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'SplunkDataSans';
+    src: url('./assets/fonts/Web/WOFF2') format('woff2'), /* Super Modern Browsers */
+         url('./assets/fonts/Web/WOFF') format('woff'), /* Pretty Modern Browsers */
+  }
+  
+  body {
+    font-family: 'SplunkDataSans', sans-serif;
+    margin: 0;
+  }
+
+  header {
+    padding: 0 10%;
+    background: linear-gradient(#3F3B35 10%, #ffffff 90%);
+    border-bottom: 1px solid #CED0D4;
+  }
+
+  main {
+    background: #F0F2F5;
+    padding: 30px 15%;
+    text-align: left;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  li {
+    padding: 10px 0;
+  }
+
+  .responsive-banner {
+    width: 100%;
+    height: auto;
+  }
+
+  .splunk-container {
+    display: flex;
+  }
+
+  .splunk-icon {
+    padding: 0 30px;
+    position: relative;
+    top: -30px;
+  }
+
+  .splunk-header {
+    font-weight: 700;
+  }

@@ -1,0 +1,25 @@
+==Release notes_Splunk Data Sans==
+
+Compiler of release notes: Dalton Maag
+Designer: Dalton Maag
+Designer URL: daltonmaag.com
+
+Date of creation: 2019-09-20
+
+Changes since previous release:
+- Copyright string updated.
+
+Basic information
+1 Font name: Splunk Data Sans
+2 TrueType Version record: Version 1.001
+3 Regional package: Latin
+4 Supported scripts: Latin
+5 Number of glyphs: 431 
+6 Weights/Styles: Light, Regular, Medium, Bold, XBold, Black
+7 Usage: Text and Display
+
+Technology
+1 The files have been delivered in the TrueType-based OpenType format, for use in all major Operating Systems, and also as TTF for use in apps, and in web font format: WOFF; WOFF2.
+2 Embedding settings: Editing of the document is allowed (editable mode), subsetting is allowed.
+3 Hinting information: All glyphs are manually hinted for optimized rasterization in Microsoft ClearType or for other LCD devices.
+4 Default numerals: Tabular. Proportional figures accessible via OpenType features.

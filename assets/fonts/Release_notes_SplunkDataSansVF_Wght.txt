@@ -1,0 +1,30 @@
+==Release notes_Splunk Data Sans VF==
+
+Compiler of release notes: Dalton Maag
+Designer: Dalton Maag
+Designer URL: daltonmaag.com
+
+Date of creation: 2019-09-20
+
+Changes since previous release:
+- Copyright string updated.
+
+Basic information
+1 Font name: Splunk Data Sans VF
+2 TrueType Version record: Version 1.001
+3 Regional package: Latin
+4 Supported scripts: Latin
+5 Number of glyphs: 431
+6 Usage: Text and Display
+7 Number of axes: 1
+8 Axes:
+    - Weight
+        tag: wght
+        range: 300 (Light) - 900 (Black)
+9 Named instances: Light, Regular (default instance), Medium, Bold, XBold, Black;
+
+Technology
+1 File formats: The files have been delivered as variable fonts in TrueType-based OpenType format, for use in all major Operating Systems, TTF for use in apps, and in web font format: WOFF2.
+2 Embedding settings: Editing of the document is allowed (editable mode), subsetting is allowed.
+3 Hinting information: No hinting.
+4 Default numerals: Tabular. Proportional figures accessible via OpenType features.
